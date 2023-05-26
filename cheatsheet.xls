@@ -1,0 +1,22 @@
+Git init ---- iniciar repositorio git hub
+touch ---- Crear archivos
+mkdir ---- Crear carpetas
+rm -rf .git ---- dejar de trackear con git
+rm -rf * ---- borrar lo que esta dentro de una carpeta
+git status ---- Para saber el estatus de archivos y carpetas
+git add . ---- para agregar todo al stagin area
+git add *nombrearchivo* ---- para agregar un archivo al stagin area
+git commit -m "Mensaje" ----- para agregar un commit
+git log --oneline ---- para ver todos los commits
+git checkout *numerodecommit* ---- para pasar a otro commit
+git checkout main ---- para pasar al commit actual
+ls -a ---- muesta archivos ocultos de git
+git remote add origin *ruta* ----- para vincular un repositorio git 
+git push origin main ---- para cargar archivos y carpetas al repositorio git
+git remote -v ---- para saber si esta vinculado al repositorio remoto
+git remote remove origin ---- para desvincular repositorio remoto 
+git pull origin main ---- para descargar cosas del git 
+git branch *nombrerama* ---- para crear una rama
+git checkout *nombrerama* ---- para cambiarme de rama
+git branch ---- lista las ramas 
+git merge *nombrerama* ---- para juntar las ramas
