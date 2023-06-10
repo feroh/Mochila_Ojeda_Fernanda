@@ -1,0 +1,10 @@
+
+Por que un lenguaje de programacion solo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Porque un lenguaje de programaciqn compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretaci¢n que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenquaje ensamblador es totalmente diferente y no va a correr.
+Qu‡ tipo de mtquina virtual es virtualBox?.
+Es un software para virtualizaci¢n, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como
+mtquina virtual.
+Si tengo mts de una mtquina virtual instalada, y una se rompe, ¨esto afecta a las
+demas? ¨porque?
+Las maquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicaci¢n de forma separada. De ese modo, "si una de ellas falla, no afectara alfuncionamiento del resto.
