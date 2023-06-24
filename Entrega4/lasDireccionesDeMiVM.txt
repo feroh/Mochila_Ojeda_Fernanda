@@ -1,0 +1,3 @@
+direccion privada 192.0.2.1
+direccion publica 177.225.7.117
+direccion mac 9c:3e:53:95:da:7f	
