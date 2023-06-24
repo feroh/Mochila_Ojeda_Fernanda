@@ -1,0 +1,56 @@
+Ventajas y desventajas de telnet
+
+ventajas
+ Apto para todo tipo de plataformas
+Acceso ilimitado a los recursos
+
+Desventajas
+El acceso pleno a los sistemas les ofrece un amplio margen de maniobra a los hackers
+Telnet no permite el acceso a todos los servidores
+
+ventajas de utilizr telnet como protocolo de acceso remoto 
+
+ventajas 
+Simplicidad
+amplia compatibilidad
+
+desventajas
+falta de seguridad
+limitaciones de funcionalidad
+
+
+SSH
+ventajas y desventajas de utilizar el protocolo SSH
+ventajas
+es gratuito
+tiene muchas funciones
+tiene muy buena seguridad
+facil de usar
+
+desventajas
+no tiene buena velocidad
+no pose interfaz grafica
+
+
+segun mis conocimientos
+
+ventajas
+seguridad
+funcionalidad avanzada
+
+desventajas
+la configuración inicial
+requisitos de sw
+
+
+¿cuales son las principales diferencias entre SSH y telnet?
+SSH destaca por su alta seguridad, encriptacion y funcionalidad avanzada mientras que telnet carece de encriptacion y ofrece un nivel de seguridad inferior
+
+responde destaacando al menos tres diferencias clave entre SSH y Telnet en terminos de seguridd, cifrado de datos y caracteristicas funcionales
+Seguridad
+SSH Alto nivel de seguridad
+telnet carece de seguridad
+
+cifrado de datos
+SSH utiliza encriptacion para proteger los datos transmitidos 
+telnet no ofrece cifrado d datos
